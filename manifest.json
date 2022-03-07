@@ -1,0 +1,22 @@
+{
+  "name": "PWA test",
+  "short_name": "PWA",
+  "description": "Test for a PWA",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Aerolixdev/Wyoogle/main/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/ico"
+    },
+    // ...
+    {
+      "src": "https://raw.githubusercontent.com/Aerolixdev/Wyoogle/main/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/ico"
+    }
+  ],
+  "start_url": "/aerolixdev/Pwa-test/index.html",
+  "display": "fullscreen",
+  "theme_color": "#B12A34",
+  "background_color": "#B12A34"
+}
